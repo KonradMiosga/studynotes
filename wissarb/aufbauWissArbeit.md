@@ -16,7 +16,7 @@ title: Aufbau einer Wissenschaftlichen Arbeit
 10. Anhänge
 11. Literaturverzeichnis
 
-<u>Abweichungen</u>
+### Abweichungen
 - Deckblatt
 - Inhaltsverzeichnis
 - Abbildungsverzeichnis
