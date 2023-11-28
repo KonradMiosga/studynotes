@@ -4,7 +4,7 @@ title: Konrads wilde Sammlung
 ---
 
 # Konrads wilde Sammlung
-bla
+
 [Wissenschaftliches Arbeiten](./wissarb/wissarb)
 
 [Programmier-Paradigmen](./pp/pp)
