@@ -10,5 +10,5 @@ title: Präsentieren
 - Anschaulichkeit
 - Körpersprache
 - Zeitumfang
-- [Slides](./slides)
+- [Slides](../slides)
 - Aufbau
