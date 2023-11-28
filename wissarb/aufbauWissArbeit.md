@@ -1,3 +1,7 @@
+---
+layout: ../../layouts/Layout.astro
+title: Aufbau einer Wissenschaftlichen Arbeit 
+---
 # Aufbau einer Wissenschaftlichen Arbeit
 1. Titel der Arbeit
 2. Autoren
@@ -12,7 +16,7 @@
 10. Anhänge
 11. Literaturverzeichnis
 
-_Abweichungen_
+<u>Abweichungen</u>
 - Deckblatt
 - Inhaltsverzeichnis
 - Abbildungsverzeichnis
