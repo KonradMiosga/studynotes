@@ -4,6 +4,7 @@ title: Konrads wilde Sammlung
 ---
 
 # Konrads wilde Sammlung an Aufzeichnungen
+Dies ist eine lose und nur mittelmäßig strukturierte Sammlung diverser Mitschriften und Übungslösungen...
 
 [Wissenschaftliches Arbeiten](./wissarb/wissarb)
 
