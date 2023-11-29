@@ -16,7 +16,7 @@ title: Einführung in die Programmierung
 	- Highlights
 	- Grafiken
 	- Bildunterschriften
-	- Literatur-Verweise (ideal mit Names anstatt Zahlen)
+	- Literatur-Verweise (ideal mit Namen anstatt Zahlen)
 		- natbib/natlib für Zitation
 	- Tabellen
 	- Textanstriche möglichst einzeilig
