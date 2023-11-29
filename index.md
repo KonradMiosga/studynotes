@@ -12,3 +12,4 @@ Dies ist eine lose und nur mittelmäßig strukturierte Sammlung diverser Mitschr
 
 [Einführung in die Programmierung](./prog/prog)
 
+[Mitmach-Spaß](./mitmachen.html)
