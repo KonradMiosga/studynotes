@@ -2,7 +2,6 @@
 layout: ../../layouts/Layout.astro
 title: Tupel
 ---
-# Tupel
 ```elm
 nestedPair : Float
 nestedPair =

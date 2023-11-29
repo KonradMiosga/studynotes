@@ -2,7 +2,6 @@
 layout: ../../layouts/Layout.astro
 title: Creative Phase 
 ---
-
 Wichtiges Konzept:
 - Algorithmen
 	1. Korrektheit

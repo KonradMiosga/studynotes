@@ -2,7 +2,6 @@
 layout: ../../layouts/Layout.astro
 title: Slideaufbau 
 ---
-
 - Deckblatt
 	- Thema
 	- Präsentierender

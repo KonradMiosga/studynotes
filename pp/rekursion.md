@@ -2,7 +2,6 @@
 layout: ../../layouts/Layout.astro
 title: Rekursion
 ---
-# Rekursion
 ```elm
 factorial : Int -> Int
 factorial n =

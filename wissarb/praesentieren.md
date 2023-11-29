@@ -2,7 +2,6 @@
 layout: ../../layouts/Layout.astro
 title: Präsentieren 
 ---
-
 - Sprache
 - Publikum
 - Inhalt
