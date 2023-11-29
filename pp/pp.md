@@ -3,4 +3,7 @@ layout: ../../layouts/Layout.astro
 title: Programmier-Paradigmen
 ---
 
-leider noch nix ... sorry
+- [Rekursion](../rekursion)
+- [Tupel](../tupel)
+- [Date](../date)
+- [Temperature](../temperature)
