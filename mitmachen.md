@@ -15,7 +15,7 @@ Eine gute Anleitung findet ihr z.B. [hier](https://docs.github.com/de/get-starte
 
 Das Repo auf dem die Dokumente liegen, die den Inhalt dieser Website speisen, findet ihr [hier](https://github.com/KonradMiosga/studynotes).
 
-Wir ihr merge-requests mit euren Änderungen an mich stellen könnt, erklärt euch ChatGPT hier kurz. ;)
+Wir ihr pull-requests mit euren Änderungen an mich stellen könnt, erklärt euch ChatGPT hier kurz. ;)
 
 
 1. **Fork des Repositories:**
