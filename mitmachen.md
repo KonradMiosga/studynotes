@@ -8,9 +8,9 @@ Für Langweiler:
 Schreibt mich in den bekannten WhatsApp-Gruppen oder Discord-Servern an.
 
 Für coole Leute:  
-Nutzt GitHub. :D
-Erstellt euch da einfach einen kostenfreien Account und lernt damit umzugehen.
-Mit git bzw. GitHub umgehen zu können, gehört mit zu den Grundfähigkeiten eines jeden Informatikers. Ich empfehle also stark sich damit früher oder später mal auseinanderzusetzen.
+Nutzt GitHub. :D  
+Erstellt euch da einfach einen kostenfreien Account und lernt damit umzugehen.  
+Mit git bzw. GitHub umgehen zu können, gehört mit zu den Grundfähigkeiten eines jeden Informatikers. Ich empfehle also stark sich damit früher oder später mal auseinanderzusetzen.  
 Eine gute Anleitung findet ihr z.B. [hier](https://docs.github.com/de/get-started/quickstart/hello-world) oder einfach über eine Google-Suche.
 
 Das Repo auf dem die Dokumente liegen, die den Inhalt dieser Website speisen, findet ihr [hier](https://github.com/KonradMiosga/studynotes).
