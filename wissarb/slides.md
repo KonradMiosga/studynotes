@@ -1,9 +1,8 @@
 ---
 layout: ../../layouts/Layout.astro
-title: Einführung in die Programmierung 
+title: Slideaufbau 
 ---
 
-# Slideaufbau
 - Deckblatt
 	- Thema
 	- Präsentierender

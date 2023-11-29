@@ -3,7 +3,6 @@ layout: ../../layouts/Layout.astro
 title: Maxsum-Problem 
 ---
 
-# Maxsum-Problem
 Naiv:
 ```python
 maxsum := A[0]

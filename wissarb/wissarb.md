@@ -2,7 +2,7 @@
 layout: ../../layouts/Layout.astro
 title: Wissenschaftliches Arbeiten 
 ---
-# Phasen
+## Phasen
 1. Finding Phase
 2. Research Phase
 3. Processing Phase
@@ -11,5 +11,5 @@ title: Wissenschaftliches Arbeiten
 6. Evaluation Phase
 
 
-# Misc.
+## Misc.
 - [Präsentieren](../praesentieren)
