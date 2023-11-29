@@ -4,10 +4,10 @@ title: Mitmach-Spass
 ---
 Wer zum Inhalt dieser Seite betragen oder Fehler korrigiert haben möchte hat zwei Möglichkeiten.
 
-Für Langweiler: 
+Für Langweiler:  
 Schreibt mich in den bekannten WhatsApp-Gruppen oder Discord-Servern an.
 
-Für coole Leute: 
+Für coole Leute:  
 Nutzt GitHub. :D
 Erstellt euch da einfach einen kostenfreien Account und lernt damit umzugehen.
 Mit git bzw. GitHub umgehen zu können, gehört mit zu den Grundfähigkeiten eines jeden Informatikers. Ich empfehle also stark sich damit früher oder später mal auseinanderzusetzen.
