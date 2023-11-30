@@ -4,7 +4,7 @@ title: Objektifizierte Autos
 ---
 Mein stümperhafter Versuch das Grundkonzept der Objektorientierten Programmierung zu erklären.
 
-![image info](../img/autos.png)
+![autoimg](../img/autos.png)
 
 Der kompilierbare Code zu dem Beispiel
 
