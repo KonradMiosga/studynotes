@@ -9,6 +9,7 @@ Mein stümperhafter Versuch das Grundkonzept der Objektorientierten Programmieru
     
 	<img src=".../img/autos_light.png" alt="Auto Img">
 </pictures>
+
 Der kompilierbare Code zu dem Beispiel
 
 Auto.java
