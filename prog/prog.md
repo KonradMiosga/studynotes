@@ -13,3 +13,7 @@ Meine Lösung für aktuelle Übungen und Projekte lade ich natürlich erst zu ei
 - [Aufgabe 04](../aufgabe04)
 - [Aufgabe 05](../aufgabe05)
 - [Aufgabe 06/07](../aufgabe0607)
+
+Anderer Kram, der vielleicht interessant sein könnte
+
+- [Objektifizierte Autos](../autos)
