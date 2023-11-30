@@ -2,7 +2,7 @@
 layout: ../../layouts/Layout.astro
 title: Objektifizierte Autos
 ---
-Mein stümperhafter Versuch das Grundkonzept der Objektorientierten Programmierung zu erklären.
+Mein stümperhafter Versuch das Grundkonzept der Objektorientierten Programmierung an einem anderen (vielleicht einfacheren) Beispiel als dem aus der Übung zu erklären.
 
 ![autoimg](../img/autos.png)
 
