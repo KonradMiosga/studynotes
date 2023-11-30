@@ -4,11 +4,7 @@ title: Objektifizierte Autos
 ---
 Mein stümperhafter Versuch das Grundkonzept der Objektorientierten Programmierung zu erklären.
 
-<picture>
-	<source srcset="../img/autos.png" media="(prefers-color-scheme: dark)">
-    
-	<img src=".../img/autos_light.png" alt="Auto Img">
-</pictures>
+![autoimg](../img/autos.png)
 
 Der kompilierbare Code zu dem Beispiel
 
