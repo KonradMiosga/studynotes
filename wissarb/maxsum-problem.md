@@ -21,7 +21,7 @@ maxsum := A[0]
 for i = 0 to n do
 	sum = 0
 	for j = i to n do
-		sum = sum + A[k]
+		sum = sum + A[j]
 		if sum > maxsum then
 			maxsum = sum
 return maxsum
