@@ -12,7 +12,8 @@ Meine Lösung für aktuelle Übungen und Projekte lade ich natürlich erst zu ei
 - [Aufgabe 03](../aufgabe03)
 - [Aufgabe 04](../aufgabe04)
 - [Aufgabe 05](../aufgabe05)
-- [Aufgabe 06/07](../aufgabe0607)
+- [Aufgabe 06/07](../aufgabe06_07)
+- [Aufgabe 08](../aufgabe08)
 
 Anderer Kram, der vielleicht interessant sein könnte
 
