@@ -7,14 +7,14 @@ Kein Anspruch auf Korrektheit oder Vollständigkeit.
 
 Meine Lösung für aktuelle Übungen und Projekte lade ich natürlich erst zu einem späteren Zeitpunkt hoch. ;)
 
-- [Aufgabe 01](../aufgabe01)
-- [Aufgabe 02](../aufgabe02)
-- [Aufgabe 03](../aufgabe03)
-- [Aufgabe 04](../aufgabe04)
-- [Aufgabe 05](../aufgabe05)
-- [Aufgabe 06/07](../aufgabe06_07)
-- [Aufgabe 08](../aufgabe08)
+- [Aufgabe 01](aufgabe01)
+- [Aufgabe 02](aufgabe02)
+- [Aufgabe 03](aufgabe03)
+- [Aufgabe 04](aufgabe04)
+- [Aufgabe 05](aufgabe05)
+- [Aufgabe 06/07](aufgabe06_07)
+- [Aufgabe 08](aufgabe08)
 
 Anderer Kram, der vielleicht interessant sein könnte
 
-- [Objektifizierte Autos](../autos)
+- [Objektifizierte Autos](autos)

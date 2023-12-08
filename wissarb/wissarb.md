@@ -12,4 +12,4 @@ title: Wissenschaftliches Arbeiten
 
 
 ## Misc.
-- [Präsentieren](../praesentieren)
+- [Präsentieren](praesentieren)
