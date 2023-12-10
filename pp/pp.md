@@ -11,3 +11,4 @@ Meine Lösung für aktuelle Übungen und Projekte lade ich natürlich erst zu ei
 - [Tupel](tupel)
 - [Date](date)
 - [Temperature](temperature)
+- [Lists](lists)
