@@ -9,5 +9,3 @@ Dies ist eine lose und nur mittelmäßig strukturierte Sammlung diverser Mitschr
 [Programmier-Paradigmen](./pp/pp)
 
 [Einführung in die Programmierung](./prog/prog)
-
-[Mitmach-Spaß](./mitmachen)
